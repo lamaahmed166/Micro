@@ -78,6 +78,7 @@
 						//restart the timer
 						TR0=0;
 						TR0=1;
+						counter=0;
 					}//end if
 					
 				if (i == 10) 
@@ -135,6 +136,7 @@
 						//restart the timer
 						TR0=0;
 						TR0=1;
+						counter=0;
 					}//end if
 					
 				if (i == 10) 
@@ -192,6 +194,7 @@
 						//restart the timer
 						TR0=0;
 						TR0=1;
+						counter=0;
 					}//end if
 					
 				if (i == 10) 
