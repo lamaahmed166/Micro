@@ -44,5 +44,7 @@
  
 					(Figure 4)
 		ArrayTest values during testing phase DB>DA
->> System Performance:
-The program was tested by Nehal and Lama 10 times. 5 times it detected correctly that Nehal was the typer in the testing phase, 3 times the program detected correctly that the typer was Lama,  and in the other 2 it detected falsely that Nehal was the typer when infact it was Lama. 8/10 correct guesses. Thereby the system performance is 80%.	
+	System Performance:
+The program was tested by Nehal and Lama 10 times. 5 times it detected correctly that Nehal was the user in the testing phase, 3 times the program detected correctly that the user was Lama, and in the other 2 it detected falsely that Nehal was the user when in fact it was Lama. 8/10 correct guesses. Thereby the system performance is 80%.	
+	The work was distributed among our team members equally. We all contributed to the logic, implementation and testing of the project, thus, there was no need to divide parts or roles to one another as the output was achieved through simultaneous team work.
+
