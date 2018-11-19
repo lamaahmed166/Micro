@@ -44,3 +44,5 @@
  
 					(Figure 4)
 		ArrayTest values during testing phase DB>DA
+>> System Performance:
+The program was tested by Nehal and Lama 10 times. 5 times it detected correctly that Nehal was the typer in the testing phase, 3 times the program detected correctly that the typer was Lama,  and in the other 2 it detected falsely that Nehal was the typer when infact it was Lama. 8/10 correct guesses. Thereby the system performance is 80%.	
